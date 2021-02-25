@@ -96,11 +96,12 @@ export default {
 .qty-button {
   border-radius: 50%;
   width: 30px;
-  background-color:darkolivegreen;
+  background-color:rgb(57, 5, 124);
 }
 
 .checkout-button {
   margin-top: 20px;
-  background-color:lightgreen;
+  background-color:rgb(197, 108, 49);
+  color: darkblue;
 }
 </style>

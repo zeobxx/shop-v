@@ -2,10 +2,10 @@
   <header>
     <nav class="navbar navbar-Blue">
       <div class="container">
-        <span class="navbar-brand mb-3 h1" style="padding-top: 30px"
+        <span class="navbar-brand mb-3 " style="padding-top: 30px; font-size:50px; font-align:center"
           >Light Stick</span
         >
-        <span class="navbar-brand mb-3 h1" style="padding-top: 30px">
+        <span class="navbar-brand mb-3 " style="padding-top: 30px; font-size:30px">
           Cart <span class="badge badge-primary">{{ totalQty }}</span>
         </span>
       </div>

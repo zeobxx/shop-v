@@ -39,7 +39,7 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color:rgb(24, 64, 196);
+  color:midnightblue;
   background-image: url(https://pa1.narvii.com/6524/2a68d1c2248c5e14ea86c9ab42055a91cc7a041e_hq.gif);
 }
 </style>
