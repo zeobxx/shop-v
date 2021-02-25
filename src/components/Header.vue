@@ -30,7 +30,7 @@ export default {
 <style scoped>
 header {
   margin-bottom: 10vh;
-  background-color: rgb(175, 207, 226);
+  /* background-color: rgb(175, 207, 226); */
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   background-image: url(http://www.over-educated.com/wp-content/uploads/2015/11/Dahlia-background-header-2217a.jpg);
 }
