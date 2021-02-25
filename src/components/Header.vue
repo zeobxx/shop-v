@@ -1,15 +1,15 @@
 <template>
   <header>
-    <div class="container">
-      <nav class="navbar navbar-Blue">
+    <nav class="navbar navbar-Blue">
+      <div class="container">
         <span class="navbar-brand mb-3 h1" style="padding-top: 30px"
           >Light Stick</span
         >
         <span class="navbar-brand mb-3 h1" style="padding-top: 30px">
           Cart <span class="badge badge-primary">{{ totalQty }}</span>
         </span>
-      </nav>
-    </div>
+      </div>
+    </nav>
   </header>
 </template>
 
@@ -31,7 +31,7 @@ export default {
 header {
   margin-bottom: 10vh;
   background-color: rgb(175, 207, 226);
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   background-image: url(http://www.over-educated.com/wp-content/uploads/2015/11/Dahlia-background-header-2217a.jpg);
 }
 </style>
